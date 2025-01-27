@@ -21,7 +21,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=apxcodefun&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=apxcodefun&theme=radical&hide_border=false&include_all_commits=true&count_private=true&cache_buster=1)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=apxcodefun&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
