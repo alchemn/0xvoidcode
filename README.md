@@ -17,19 +17,19 @@
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=0xvoidcode&theme=radical&hide_border=false&include_all_commits=true&count_private=true&cache_buster=1)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xvoidcode&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=alchemn&theme=radical&hide_border=false&include_all_commits=true&count_private=true&cache_buster=1)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alchemn&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=0xvoidcode&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=alchemn&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=0xvoidcode&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=alchemn&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=0xvoidcode&icon=4&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=alchemn&icon=4&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
